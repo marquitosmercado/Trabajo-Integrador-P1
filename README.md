@@ -1,6 +1,6 @@
  # 🌲 Gestión de Estudiantes con Árbol Binario de Búsqueda (ABB)
 
-#✍️ Autores
+# ✍️ Autores
 Mercado, Marcos Agustín
 Nelson, Estefania
 
