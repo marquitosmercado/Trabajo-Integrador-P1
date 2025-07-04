@@ -7,7 +7,7 @@ Nelson, Estefania
 # 🎯 Objetivo
 Este proyecto implementa un Árbol Binario de Búsqueda (ABB) en Python, demostrando la gestión eficiente de datos mediante operaciones fundamentales.
 
-#📝 Descripción del Trabajo
+# 📝 Descripción del Trabajo
 El trabajo desarrolla las clases Node y BST para construir y operar un ABB. Incluye las siguientes funcionalidades algorítmicas esenciales:
 - Inserción de Nodos: Añadir elementos manteniendo el orden del ABB.
 - Búsqueda de Nodos: Localizar elementos específicos de forma eficiente.
